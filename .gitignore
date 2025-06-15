@@ -32,3 +32,5 @@
 *.app
 
 ac-library/
+in.txt
+out.txt
