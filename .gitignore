@@ -30,7 +30,3 @@
 *.exe
 *.out
 *.app
-
-ac-library/
-*in.txt
-*out.txt
